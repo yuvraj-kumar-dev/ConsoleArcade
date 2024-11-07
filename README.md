@@ -54,7 +54,7 @@ To get started, clone this repository and play directly from your terminal. Ensu
      ```
 4. **Run a game**:
    ```bash
-   java StonePaperScissors
+   java Stonepaper
    ```
    or
    ```bash
