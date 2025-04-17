@@ -27,7 +27,7 @@ Welcome to **ConsoleArcade-Java** — a collection of fun and nostalgic console-
 Here's what you can play right now:
 
 - **Stone-Paper-Scissors** — Test your luck and strategy in this classic game.
-- **Tic Tac Toe** — Challenge yourself against the computer or a friend in this timeless game.
+- **Tic Tac Toe** — Challenge yourself against the computer or a friend in this timeless game. **(to be added)**
 
 More games are on the way!
 
