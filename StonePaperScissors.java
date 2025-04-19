@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-class Stonepaper {
+class StonePaperScissors {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         int stone = 1;
